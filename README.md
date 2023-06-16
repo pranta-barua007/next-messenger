@@ -18,6 +18,20 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+
+## Environment Variables
+```
+DATABASE_URL= 'YOUR MONOGODB ATLAS URL'
+NEXTAUTH_SECRET=
+NEXT_PUBLIC_PUSHER_APP_KEY=
+PUSHER_APP_ID=
+PUSHER_SECRET=
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
+GITHUB_ID=
+GITHUB_SECRET=
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+```
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
